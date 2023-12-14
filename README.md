@@ -53,17 +53,18 @@ As I moved on with the training and testing the model after every 5000 epochs (M
 3. Integrate GPT4 API to generate prompts from the probability distribution heuristics, to further completely automate the dataset generation process.
 
 ### References:
+
 https://arxiv.org/ftp/arxiv/papers/2005/2005.00065.pdf : Generative Adversarial Networks (GANs): Challenges, Solutions, and Future Directions 
+
 
 https://arxiv.org/abs/1910.06711 : MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
 
+
 https://arxiv.org/abs/1910.11480 : Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram
+
 
 https://arxiv.org/abs/2010.05646 : HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis
 
-https://github.com/kan-bayashi/ParallelWaveGAN
-
-https://github.com/descriptinc/melgan-neurips
 
 ### Model weights and config:
 
